@@ -1,0 +1,26 @@
+.sidenav-container {
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    background-color: white;
+  }
+  .sidenav-content {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .sidenav {
+    min-width: 320px;
+    width: 30vw;
+    padding: 20px;
+  }
+  .button-top-left-box{
+    position: relative;
+    .button-top-left{
+        position: absolute;
+        top: 15px;
+        left: 15px;
+    }
+  }
