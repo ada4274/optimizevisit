@@ -13,8 +13,9 @@
   
   .sidenav {
     min-width: 320px;
-    width: 30vw;
+    width: 35vw;
     padding: 20px;
+    background-color: white;
   }
   .button-top-left-box{
     position: relative;
@@ -22,5 +23,6 @@
         position: absolute;
         top: 15px;
         left: 15px;
+        z-index: 2000;
     }
   }

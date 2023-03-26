@@ -1,0 +1,13 @@
+.menu-box{
+    display: flex;
+    height: 70%;
+    align-items: center;
+    justify-content:center;
+    background-color: white;
+    div{
+        width: 100%;
+        mat-card{
+            margin-bottom: 25px;
+        }
+    }
+}

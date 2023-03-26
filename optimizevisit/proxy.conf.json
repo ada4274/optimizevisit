@@ -1,0 +1,8 @@
+{
+    "/api": {
+      "target": "https://data.culture.gouv.fr",
+      "secure": false,
+      "logLevel": "debug",
+      "changeOrigin": true
+    }
+  }
